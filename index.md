@@ -6,7 +6,7 @@
 - **ORCID**: 0000-0001-8463-4104
 
 # Research Interests
-Incomplete multi-view clustering, spatial transcriptomics, machine learning for bioinformatics.
+Incomplete multi-view clustering, spatial transcriptomics, machine learning, bioinformatics
 
 # Education
 - **M.Eng.** Sep 2021–Jun 2024 
@@ -40,4 +40,5 @@ Incomplete multi-view clustering, spatial transcriptomics, machine learning for 
    A tensor-based integrative framework for spatial transcriptomics clustering. 
 
    *Interdisciplinary Sciences: Computational Life Sciences*, 2025, in press.
+
 
