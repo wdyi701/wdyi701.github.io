@@ -19,6 +19,7 @@ Incomplete multi-view clustering, spatial transcriptomics, machine learning for 
 
 # Honors & Awards
 - Second-Class Scholarship, Shandong Normal University, 2023
+- Frist-Class Scholarship, Central South University, 2025
 
 # Selected Publications
 (#Equal contribution; *Corresponding author)
@@ -37,4 +38,5 @@ Incomplete multi-view clustering, spatial transcriptomics, machine learning for 
 
 4. Juntong Zhu\*, Daoyuan Wang\*, Siqi Chen, Lili Meng, Yahui Long\*, Cheng Liang\*. 
    A tensor-based integrative framework for spatial transcriptomics clustering. 
+
    *Interdisciplinary Sciences: Computational Life Sciences*, 2025, in press.
