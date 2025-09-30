@@ -6,7 +6,9 @@
 - **ORCID**: 0000-0001-8463-4104
 
 # Research Interests
-Incomplete multi-view clustering, spatial transcriptomics, machine learning, bioinformatics
+1. Incomplete multi-view clustering
+2. machine learning
+3. bioinformatics
 
 # Education
 - **M.Eng.** Sep 2021–Jun 2024 
@@ -37,8 +39,8 @@ Incomplete multi-view clustering, spatial transcriptomics, machine learning, bio
    *IEEE Transactions on Knowledge and Data Engineering*, 2024, 36(11): 6934-6948. 
 
 4. Juntong Zhu\*, Daoyuan Wang\*, Siqi Chen, Lili Meng, Yahui Long\*, Cheng Liang\*. 
-   A tensor-based integrative framework for spatial transcriptomics clustering. 
-
+   A tensor-based integrative framework for spatial transcriptomics clustering.
    *Interdisciplinary Sciences: Computational Life Sciences*, 2025, in press.
+
 
 
