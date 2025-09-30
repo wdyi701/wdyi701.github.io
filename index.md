@@ -28,15 +28,16 @@ Incomplete multi-view clustering, spatial transcriptomics, machine learning for 
    Unsupervised multi-view feature selection based on weighted low-rank tensor learning and its application to multi-omics data. 
    *Engineering Applications of Artificial Intelligence*, 2025, 143: 110041. 
 
-2. Cheng Liang, Daoyuan Wang, Huaxiang Zhang, Shichao Zhang\*, Fei Guo\*. 
-   Robust tensor subspace learning for incomplete multi-view clustering. 
-   *IEEE Transactions on Knowledge and Data Engineering*, 2024, 36(11): 6934-6948. 
-
-3. Daoyuan Wang, Fujian Ren, Yuntang Zhuang, Cheng Liang*. 
+2. Daoyuan Wang, Fujian Ren, Yuntang Zhuang, Cheng Liang*. 
    Robust high-order graph learning for incomplete multi-view clustering. 
    *Expert Systems with Applications*, 2025, 280: 127580.
+
+3. Cheng Liang, Daoyuan Wang, Huaxiang Zhang, Shichao Zhang\*, Fei Guo\*. 
+   Robust tensor subspace learning for incomplete multi-view clustering. 
+   *IEEE Transactions on Knowledge and Data Engineering*, 2024, 36(11): 6934-6948. 
 
 4. Juntong Zhu\*, Daoyuan Wang\*, Siqi Chen, Lili Meng, Yahui Long\*, Cheng Liang\*. 
    A tensor-based integrative framework for spatial transcriptomics clustering. 
 
    *Interdisciplinary Sciences: Computational Life Sciences*, 2025, in press.
+
