@@ -38,9 +38,10 @@
    Robust tensor subspace learning for incomplete multi-view clustering. 
    *IEEE Transactions on Knowledge and Data Engineering*, 2024, 36(11): 6934-6948. 
 
-4. Juntong Zhu\*, Daoyuan Wang\*, Siqi Chen, Lili Meng, Yahui Long\*, Cheng Liang\*. 
+4. Juntong Zhu#, Daoyuan Wang#, Siqi Chen, Lili Meng, Yahui Long\*, Cheng Liang\*. 
    A tensor-based integrative framework for spatial transcriptomics clustering.
    *Interdisciplinary Sciences: Computational Life Sciences*, 2025, in press.
+
 
 
 
