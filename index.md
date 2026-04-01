@@ -17,7 +17,6 @@
 - **M.Eng.** Sep 2021–Jun 2024 
   School of Information Science and Engineering, Shandong Normal University 
   *Supervisor*: Dr. Cheng Liang 
-
 - **Ph.D.** Sep 2024–present 
   School of Computer Science and Engineering, Central South University 
   *Supervisors*: Dr. Cheng Liang & Dr. Fei Guo 
