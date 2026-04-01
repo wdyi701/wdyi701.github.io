@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: "<center>Daoyuan Wang <br> <span style='font-size: 0.8em;'>王道远</span></center>"
+title: "<center><div style='font-size: 0.8em; line-height: 1.1;'>Daoyuan Wang <br> <span style='font-size: 0.85em; opacity: 0.8;'>王道远</span></div></center>"
 titile: (王道远)
 description: Welcome to my homepage!
 logo: /image.JPG
