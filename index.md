@@ -4,7 +4,7 @@
 - **Current Position**: Ph.D. candidate, School of Computer Science and Engineering, Central South University (Sept 2024 – present) 
 - **Supervisors**: Prof. Cheng Liang & Prof. Fei Guo 
 - **E-mail**: wdyi701@gmail.com 
-- **ORCID**: 0000-0001-8463-4104
+- **ORCID**: [0000-0001-8463-4104](https://orcid.org/0000-0001-8463-4104
 
 # Research Interests
 
