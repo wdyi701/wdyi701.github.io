@@ -8,7 +8,9 @@
 
 # Research Interests
 
-Incomplete multi-view clustering, spatial transcriptomics, machine learning for bioinformatics.
+1. Multi-View Clustering
+2. Incomplete Multi-View Clustering
+3. AI for Sciences
 
 # Education
 
