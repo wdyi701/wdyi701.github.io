@@ -1,8 +1,5 @@
 theme: jekyll-theme-minimal
-title: <h1 style="font-size: 1.2rem; text-align: center; margin: 0;">
-    Daoyuan Wang<br>
-    王道远
-</h1>
+title: "Daoyuan Wang <br> <span style='font-size: 0.8em;'>王道远</span>"
 titile: (王道远)
 description: Welcome to my homepage!
 logo: /image.JPG
