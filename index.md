@@ -1,19 +1,20 @@
-## Personal Information
+### Personal Information
+I am currently a Ph.D. student in the School of Computer Science and Engineering, Central South University (中南大学). I received my M.S. degree in Software Engineering from the School of Information Science and Engineering, Shandong Normal University (山东师范大学), under the supervision of Prof. Cheng Liang (梁成 教授). My Ph.D. research is jointly supervised by Prof. Fei Guo (郭菲 教授) and Prof. Cheng Liang (梁成 教授). My research interests focus on bioinformatics and machine learning.
 
-- **Name**: Daoyuan Wang 
-- **Current Position**: Ph.D. candidate, School of Computer Science and Engineering, Central South University (Sept 2024 – present) 
-- **Supervisors**: Prof. Cheng Liang & Prof. Fei Guo 
-- **E-mail**: wdyi701@gmail.com 
-- **ORCID**: [0000-0001-8463-4104](https://orcid.org/0000-0001-8463-4104)
+### Research Interests
+<div style="display: flex; gap: 10px;">
+    <div style="background-color:#e3f2fd; padding:10px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.1);">
+    Multi-View Clustering
+    </div>
+    <div style="background-color:#e8f5e9; padding:10px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.1);">
+    Incomplete Multi-View Clustering
+    </div>
+    <div style="background-color:#fff3e0; padding:10px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.1);">
+    AI for Sciences
+    </div>
+</div>
 
-## Research Interests
-
-1. Multi-View Clustering
-2. Incomplete Multi-View Clustering
-3. AI for Sciences
-
-## Education
-
+### Education
 - **M.Eng.** Sep 2021–Jun 2024 
   School of Information Science and Engineering, Shandong Normal University 
   *Supervisor*: Dr. Cheng Liang 
@@ -21,8 +22,7 @@
   School of Computer Science and Engineering, Central South University 
   *Supervisors*: Dr. Cheng Liang & Dr. Fei Guo 
 
-## Selected Publications
-
+### Selected Publications
 (#Equal contribution; *Corresponding author)
 1. Wenlan Chen, Lu Gao, **Daoyuan Wang**, Fei Guo\*, Cheng Liang\*. Geometry-Aware Variational Information Maximization for Deep Incomplete Multi-view Clustering. Proceedings of the AAAI Conference on Artificial Intelligence, 2026.
 2. Cheng Liang, Wenchao Zang, **Daoyuan Wang\***, Fei Guo. High-Order Correlation and Consistency-Aware Multi-View Clustering via Anchor Graph Learning. Neural Networks, 2026.
