@@ -1,4 +1,4 @@
-# Personal Information
+## Personal Information
 
 - **Name**: Daoyuan Wang 
 - **Current Position**: Ph.D. candidate, School of Computer Science and Engineering, Central South University (Sept 2024 – present) 
@@ -6,13 +6,13 @@
 - **E-mail**: wdyi701@gmail.com 
 - **ORCID**: [0000-0001-8463-4104](https://orcid.org/0000-0001-8463-4104)
 
-# Research Interests
+## Research Interests
 
 1. Multi-View Clustering
 2. Incomplete Multi-View Clustering
 3. AI for Sciences
 
-# Education
+## Education
 
 - **M.Eng.** Sep 2021–Jun 2024 
   School of Information Science and Engineering, Shandong Normal University 
@@ -21,11 +21,7 @@
   School of Computer Science and Engineering, Central South University 
   *Supervisors*: Dr. Cheng Liang & Dr. Fei Guo 
 
-# Honors & Awards
-
-- Second-Class Scholarship, Shandong Normal University, 2023
-
-# Selected Publications
+## Selected Publications
 
 (#Equal contribution; *Corresponding author)
 1. Wenlan Chen, Lu Gao, **Daoyuan Wang**, Fei Guo\*, Cheng Liang\*. Geometry-Aware Variational Information Maximization for Deep Incomplete Multi-view Clustering. Proceedings of the AAAI Conference on Artificial Intelligence, 2026.
