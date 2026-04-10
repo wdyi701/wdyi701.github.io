@@ -1,29 +1,12 @@
 theme: jekyll-theme-minimal
 title: "<left>Daoyuan Wang <br> <span style='font-size: 0.8em;'>王道远</span></left>"
 description: >
-  <p style="margin-top: 10px; margin-bottom: 10px;">Ph.D. Candidate @ CSU</p>
-  <hr style="border: 0.5px solid #ddd;">
-  
-  <div style="line-height: 1.8; font-size: 0.9em;">
-    <span style="display: block;">
-      <i class="fa fa-envelope" style="width: 20px; color: #444;"></i>
-      <a href="mailto:wdyi701@gmail.com" style="text-decoration: none; color: #0366d6;">wdyi701@gmail.com</a>
-    </span>
-    
-    <span style="display: block; margin-top: 8px;">
-      <i class="fa fa-graduation-cap" style="width: 20px; color: #444;"></i>
-      <a href="https://scholar.google.com" style="text-decoration: none;">Google Scholar</a>
-    </span>
-
-    <span style="display: block;">
-      <i class="fa-brands fa-github" style="width: 20px; color: #444;"></i>
-      <a href="https://github.com/wdyi701" style="text-decoration: none;">GitHub</a>
-    </span>
-
-    <span style="display: block;">
-      <i class="fa-brands fa-orcid" style="width: 20px; color: #A6CE39;"></i>
-      <a href="https://orcid.org/0000-0001-8463-4104" target="_blank" style="text-decoration: none;">ORCID</a>
-    </span>
-  </div>
+  Ph.D. Candidate @ CSU <br>
+  <hr>
+  <a href="mailto:wdyi701@gmail.com" style="text-decoration: none; color: #0366d6;">wdyi701@gmail.com</a>
+  <br>
+  <a href="https://scholar.google.com">Google Scholar</a> <br>
+  <a href="https://github.com/wdyi701">GitHub</a> <br>
+  <a href="https://orcid.org/0000-0001-8463-4104" target="_blank" style="text-decoration:none;">ORCID</a>
 logo: /image.JPG
 github: [owner/repo]
