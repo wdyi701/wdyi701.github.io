@@ -15,7 +15,6 @@ I am currently a Ph.D. student in the School of Computer Science and Engineering
   *Supervisors*: Dr. Cheng Liang & Dr. Fei Guo 
 
 ## Selected Publications
-(#Equal contribution; *Corresponding author)
 1. Wenlan Chen, Lu Gao, **Daoyuan Wang**, Fei Guo\*, Cheng Liang\*. Geometry-Aware Variational Information Maximization for Deep Incomplete Multi-view Clustering. Proceedings of the AAAI Conference on Artificial Intelligence, 2026.
 2. Cheng Liang, Wenchao Zang, **Daoyuan Wang\***, Fei Guo. High-Order Correlation and Consistency-Aware Multi-View Clustering via Anchor Graph Learning. Neural Networks, 2026.
 3. Cheng Liang, **Daoyuan** **Wang**, Fei Guo\*, Shichao Zhang\*. Incomplete multi-view clustering via robust representation learning and tensor-based co-regularizations. *IEEE Transactions on Circuits and Systems for Video Technology*, 2026. 
