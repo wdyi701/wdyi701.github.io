@@ -1,5 +1,15 @@
 theme: jekyll-theme-minimal
-title: "<left>Daoyuan Wang <br> <span style='font-size: 0.8em;'>王道远</span></left>"
-titile: (王道远)
-description: Welcome to my homepage!
+title: "Daoyuan Wang (王道远)"
+description: >
+  Ph.D. Candidate @ CSU <br>
+  <hr>
+  <i class="fa fa-envelope"></i> 2025310090@stu.sufe.edu.cn <br>
+  <i class="fa fa-envelope"></i> wdyi701@gmail.com <br>
+  <a href="https://orcid.org/0000-0002-3932-953X" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/ORCID-0000--0002--3932--953X-A6CE39?logo=orcid&logoColor=white" alt="ORCID">
+  </a> <br>
+  <br>
+  <a href="https://scholar.google.com">Google Scholar</a> | 
+  <a href="https://github.com/wdyi701">GitHub</a>
 logo: /image.JPG
+github: [owner/repo]
