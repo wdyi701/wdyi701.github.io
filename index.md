@@ -7,7 +7,7 @@
 
 I am a Ph.D. candidate in the **School of Computer Science and Engineering at Central South University (中南大学)**, jointly supervised by **Prof. Fei Guo** and **Prof. Cheng Liang**.
 
-I received my M.S. degree in Software Engineering from **Shandong Normal University (山东师范大学)**. My research focuses on bioinformatics and machine learning.
+I received my M.S. degree in Software Engineering from the **School of Computer Science and Artificial Intelligence at Shandong Normal University (山东师范大学计算机与人工智能学院)**, under the supervision of **Prof. Cheng Liang**. My research focuses on bioinformatics and machine learning.
 
 ## Research Interests
 
@@ -19,10 +19,17 @@ I received my M.S. degree in Software Engineering from **Shandong Normal Univers
 ## Education
 
 **Ph.D. in Computer Science and Engineering**, 2024–Present<br>
-Central South University
+Central South University<br>
+Supervisors: Prof. Cheng Liang and Prof. Fei Guo
 
 **M.Eng. in Software Engineering**, 2021–2024<br>
-Shandong Normal University
+School of Computer Science and Artificial Intelligence<br>
+Shandong Normal University<br>
+Supervisor: Prof. Cheng Liang
+
+## Honors & Awards
+
+- Second-Class Scholarship, Shandong Normal University, 2023
 
 ## Selected Publications
 

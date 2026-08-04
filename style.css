@@ -9,19 +9,19 @@ body {
   color: var(--text);
   background: #fff;
   font-size: 15px;
-  line-height: 1.65;
+  line-height: 1.6;
 }
 
 a { color: var(--link); }
-.wrapper { width: 880px; }
-header { width: 230px; }
+.wrapper { width: 1040px; }
+header { width: 235px; }
 
 header img {
   width: 150px;
-  height: 150px;
+  height: 165px;
   object-fit: cover;
-  object-position: center 24%;
-  border-radius: 50%;
+  object-position: center 18%;
+  border-radius: 0;
 }
 
 header h1 {
@@ -35,21 +35,27 @@ header p {
   font-size: 14px;
 }
 
-section { width: 570px; }
+section {
+  width: 680px;
+  padding-bottom: 30px;
+}
 
 h2 {
-  margin-top: 34px;
+  margin-top: 25px;
+  margin-bottom: 10px;
   padding-bottom: 5px;
   border-bottom: 1px solid var(--line);
   font-size: 20px;
 }
 
-p, ul, ol { margin-bottom: 16px; }
-li { margin-bottom: 8px; }
+p { margin: 0 0 13px; }
+ul, ol { margin-top: 0; margin-bottom: 14px; }
+li { margin-bottom: 5px; }
+section > h2:first-of-type { margin-top: 0; }
 
 @media print, screen and (max-width: 960px) {
   .wrapper { width: auto; margin: 0 24px; }
   header, section { width: auto; float: none; position: static; }
   header { padding-right: 0; }
+  header img { width: 125px; height: 138px; }
 }
-
