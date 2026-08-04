@@ -1,7 +1,8 @@
 theme: jekyll-theme-minimal
-title: Daoyuan Wang · 王道远
+title: Daoyuan Wang
 logo: /image.JPG
 description: >
+  <span class="chinese-name">王道远</span>
   <span class="profile-role">Ph.D. Candidate<br>Central South University</span>
   <span class="profile-links">
     <a href="mailto:wdyi701@gmail.com">Email</a>
