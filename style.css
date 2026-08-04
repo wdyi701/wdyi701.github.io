@@ -1,61 +1,174 @@
 :root {
-  --text: #2f3740;
-  --muted: #65717d;
-  --link: #315f85;
-  --line: #dce2e7;
+  --ink: #243241;
+  --muted: #657382;
+  --accent: #2f6f89;
+  --line: #dce5e9;
+  --soft: #f3f7f8;
 }
 
 body {
-  color: var(--text);
+  margin: 0;
+  padding: 0;
+  color: var(--ink);
   background: #fff;
   font-size: 15px;
-  line-height: 1.6;
+  line-height: 1.62;
 }
 
-a { color: var(--link); }
-.wrapper { width: 1040px; }
-header { width: 235px; }
+a { color: var(--accent); }
 
-header img {
-  width: 150px;
-  height: 165px;
-  object-fit: cover;
-  object-position: center 18%;
-  border-radius: 0;
+.wrapper {
+  width: min(900px, calc(100% - 40px));
+  margin: 46px auto 64px;
+}
+
+header {
+  position: static;
+  display: grid;
+  grid-template-columns: 112px minmax(0, 1fr);
+  grid-template-areas:
+    "photo name"
+    "photo info";
+  column-gap: 26px;
+  align-items: center;
+  width: auto;
+  padding: 26px 30px;
+  float: none;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: var(--soft);
 }
 
 header h1 {
-  margin-bottom: 8px;
-  font-size: 23px;
-  line-height: 1.3;
+  grid-area: name;
+  align-self: end;
+  margin: 0 0 5px;
+  font-size: 27px;
+  font-weight: 600;
+  line-height: 1.25;
 }
 
-header p {
+header h1 a { color: var(--ink); text-decoration: none; }
+
+header img {
+  grid-area: photo;
+  width: 112px;
+  height: 128px;
+  margin: 0;
+  object-fit: cover;
+  object-position: center 18%;
+  border-radius: 6px;
+}
+
+header > p:not(.view) {
+  grid-area: info;
+  align-self: start;
+  margin: 0;
+}
+
+.profile-role {
+  display: block;
   color: var(--muted);
   font-size: 14px;
+  line-height: 1.5;
 }
+
+.profile-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px 16px;
+  margin-top: 10px;
+}
+
+.profile-links a {
+  font-size: 13px;
+  font-weight: 500;
+  text-decoration: none;
+}
+.profile-links a:hover { text-decoration: underline; }
+
+header .view, footer { display: none; }
 
 section {
-  width: 680px;
-  padding-bottom: 30px;
+  width: auto;
+  padding: 34px 8px 0;
+  float: none;
 }
 
-h2 {
-  margin-top: 25px;
-  margin-bottom: 10px;
-  padding-bottom: 5px;
-  border-bottom: 1px solid var(--line);
+section h2 {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin: 30px 0 13px;
+  color: var(--ink);
   font-size: 20px;
+  font-weight: 600;
+  line-height: 1.35;
 }
 
-p { margin: 0 0 13px; }
-ul, ol { margin-top: 0; margin-bottom: 14px; }
-li { margin-bottom: 5px; }
-section > h2:first-of-type { margin-top: 0; }
+section h2::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: var(--line);
+}
 
-@media print, screen and (max-width: 960px) {
-  .wrapper { width: auto; margin: 0 24px; }
-  header, section { width: auto; float: none; position: static; }
-  header { padding-right: 0; }
-  header img { width: 125px; height: 138px; }
+section > h2:first-of-type { margin-top: 0; }
+section p { margin: 0 0 13px; }
+section ul, section ol { margin-top: 0; margin-bottom: 15px; }
+section li { margin-bottom: 8px; }
+
+.research-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0 24px;
+  border-top: 1px solid var(--line);
+}
+
+.research-grid > div {
+  padding: 12px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.research-grid strong, .research-grid span { display: block; }
+.research-grid strong { font-size: 14px; }
+.research-grid span { margin-top: 2px; color: var(--muted); font-size: 13px; }
+
+.education-list { border-top: 1px solid var(--line); }
+
+.education-item {
+  display: grid;
+  grid-template-columns: 110px minmax(0, 1fr);
+  gap: 18px;
+  padding: 13px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.education-item > span {
+  color: var(--accent);
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.education-item p { margin: 0; }
+.education-item small { color: var(--muted); font-size: 13px; }
+.publication-note { color: var(--muted); font-size: 13px; }
+
+section ol { padding-left: 25px; }
+section ol li { padding-left: 4px; margin-bottom: 12px; }
+
+@media print, screen and (max-width: 720px) {
+  .wrapper { width: min(100% - 28px, 620px); margin-top: 18px; }
+  header {
+    grid-template-columns: 86px 1fr;
+    column-gap: 17px;
+    padding: 18px;
+  }
+  header img { width: 86px; height: 100px; }
+  header h1 { font-size: 22px; }
+  .profile-links { gap: 5px 12px; }
+  section { padding: 26px 2px 0; }
+  section h2 { margin-top: 25px; font-size: 19px; }
+  .research-grid { grid-template-columns: 1fr; }
+  .education-item { grid-template-columns: 1fr; gap: 3px; }
 }

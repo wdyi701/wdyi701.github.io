@@ -1,10 +1,11 @@
 theme: jekyll-theme-minimal
-title: Daoyuan Wang (王道远)
+title: Daoyuan Wang · 王道远
 logo: /image.JPG
 description: >
-  Ph.D. Candidate at Central South University<br>
-  <br>
-  <a href="mailto:wdyi701@gmail.com">Email</a><br>
-  <a href="https://scholar.google.com/citations?user=ZIwb6NwAAAAJ">Google Scholar</a><br>
-  <a href="https://github.com/wdyi701">GitHub</a><br>
-  <a href="https://orcid.org/0000-0001-8463-4104">ORCID</a>
+  <span class="profile-role">Ph.D. Candidate<br>Central South University</span>
+  <span class="profile-links">
+    <a href="mailto:wdyi701@gmail.com">Email</a>
+    <a href="https://scholar.google.com/citations?user=ZIwb6NwAAAAJ">Google Scholar</a>
+    <a href="https://github.com/wdyi701">GitHub</a>
+    <a href="https://orcid.org/0000-0001-8463-4104">ORCID</a>
+  </span>
