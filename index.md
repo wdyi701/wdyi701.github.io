@@ -27,7 +27,7 @@ I received my M.S. degree in Software Engineering from the **School of Computer 
   </div>
   <div class="education-item">
     <span>2021–2024</span>
-    <p><strong>M.Eng. in Software Engineering</strong><br>School of Computer Science and Artificial Intelligence, Shandong Normal University<br><small>Supervisor: Prof. Cheng Liang</small></p>
+    <p><strong>M.Eng. in Software Engineering</strong><br>Shandong Normal University<br><small>Supervisor: Prof. Cheng Liang</small></p>
   </div>
 </div>
 
