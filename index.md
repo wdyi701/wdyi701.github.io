@@ -1,27 +1,47 @@
-## Personal Information
-I am currently a Ph.D. student in the School of Computer Science and Engineering, Central South University (中南大学). I received my M.S. degree in Software Engineering from the School of Information Science and Engineering, Shandong Normal University (山东师范大学), under the supervision of Prof. Cheng Liang (梁成 教授). My Ph.D. research is jointly supervised by Prof. Fei Guo (郭菲 教授) and Prof. Cheng Liang (梁成 教授). My research interests focus on bioinformatics and machine learning.
+---
+---
+
+<link rel="stylesheet" href="/style.css">
+
+## About Me
+
+I am a Ph.D. candidate in the **School of Computer Science and Engineering at Central South University (中南大学)**, jointly supervised by **Prof. Fei Guo** and **Prof. Cheng Liang**.
+
+I received my M.S. degree in Software Engineering from **Shandong Normal University (山东师范大学)**. My research focuses on bioinformatics and machine learning.
 
 ## Research Interests
-1. Multi-View Clustering
-2. Incomplete Multi-View Clustering
-3. AI for Sciences
+
+- Multi-View Clustering
+- Incomplete Multi-View Clustering
+- AI for Science
+- Bioinformatics and Spatial Transcriptomics
 
 ## Education
-- **M.Eng.** Sep 2021–Jun 2024 
-  School of Information Science and Engineering, Shandong Normal University 
-  *Supervisor*: Dr. Cheng Liang 
-- **Ph.D.** Sep 2024–present 
-  School of Computer Science and Engineering, Central South University 
-  *Supervisors*: Dr. Cheng Liang & Dr. Fei Guo 
+
+**Ph.D. in Computer Science and Engineering**, 2024–Present<br>
+Central South University
+
+**M.Eng. in Software Engineering**, 2021–2024<br>
+Shandong Normal University
 
 ## Selected Publications
-1. Wenlan Chen, Lu Gao, **Daoyuan Wang**, Fei Guo\*, Cheng Liang\*. Geometry-Aware Variational Information Maximization for Deep Incomplete Multi-view Clustering. Proceedings of the AAAI Conference on Artificial Intelligence, 2026.
-2. Cheng Liang, Wenchao Zang, **Daoyuan Wang\***, Fei Guo. High-Order Correlation and Consistency-Aware Multi-View Clustering via Anchor Graph Learning. Neural Networks, 2026.
-3. Cheng Liang, **Daoyuan** **Wang**, Fei Guo\*, Shichao Zhang\*. Incomplete multi-view clustering via robust representation learning and tensor-based co-regularizations. *IEEE Transactions on Circuits and Systems for Video Technology*, 2026. 
-4. Xiaoyu Liu\#, **Daoyuan** **Wang**#, Guanghui Li, Cheng Liang\*. Prototype-Calibrated Multimodal Fusion with Relational Consistency for Spatial Domain Identification in Spatial Transcriptomics. *2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 2025: 1-6. 
-5. **Daoyuan** **Wang**, Lu Gao, Wenlan Chen, Cheng Liang\*, Fei Guo\*. Image-enhanced hybrid encoding with reinforced contrastive learning for spatial domain identification in spatial transcriptomics. *Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence*, 2025: 7769-7777.
-6. Juntong Zhu\#, **Daoyuan** **Wang**#, Siqi Chen, Lili Meng, Yahui Long\*, Cheng Liang\*. stgnn: spatially informed cell-type deconvolution based on deep graph learning and statistical modeling. *Interdisciplinary Sciences: Computational Life Sciences*, 2025.
-7. **Daoyuan** **Wang**, Lianzhi Wang, Wenlan Chen, Hong Wang, Cheng Liang\*. Unsupervised multi-view feature selection based on weighted low-rank tensor learning and its application in multi-omics datasets. *Engineering Applications of Artificial Intelligence*, 2025, 143: 110041. 
-8. **Daoyuan Wang**, Fujian Ren, Yuntang Zhuang, Cheng Liang\*. Robust high-order graph learning for incomplete multi-view clustering. *Expert Systems with Applications*, 2025, 280: 127580.
-9. Cheng Liang, **Daoyuan** **Wang**, Huaxiang Zhang, Shichao Zhang\*, Fei Guo\*. Robust tensor subspace learning for incomplete multi-view clustering. *IEEE Transactions on Knowledge and Data Engineering*, 2024, 36(11): 6934-6948. 
 
+(# Equal contribution; * Corresponding author)
+
+1. Wenlan Chen, Lu Gao, **Daoyuan Wang**, Fei Guo\*, Cheng Liang\*. Geometry-Aware Variational Information Maximization for Deep Incomplete Multi-view Clustering. *AAAI*, 2026.
+
+2. Cheng Liang, Wenchao Zang, **Daoyuan Wang\***, Fei Guo. High-Order Correlation and Consistency-Aware Multi-View Clustering via Anchor Graph Learning. *Neural Networks*, 2026.
+
+3. Cheng Liang, **Daoyuan Wang**, Fei Guo\*, Shichao Zhang\*. Incomplete Multi-view Clustering via Robust Representation Learning and Tensor-based Co-regularizations. *IEEE TCSVT*, 2026.
+
+4. Xiaoyu Liu\#, **Daoyuan Wang**\#, Guanghui Li, Cheng Liang\*. Prototype-Calibrated Multimodal Fusion with Relational Consistency for Spatial Domain Identification in Spatial Transcriptomics. *IEEE BIBM*, 2025.
+
+5. **Daoyuan Wang**, Lu Gao, Wenlan Chen, Cheng Liang\*, Fei Guo\*. Image-enhanced Hybrid Encoding with Reinforced Contrastive Learning for Spatial Domain Identification in Spatial Transcriptomics. *IJCAI*, 2025.
+
+6. Juntong Zhu\#, **Daoyuan Wang**\#, Siqi Chen, Lili Meng, Yahui Long\*, Cheng Liang\*. stGNN: Spatially Informed Cell-type Deconvolution Based on Deep Graph Learning and Statistical Modeling. *Interdisciplinary Sciences*, 2025.
+
+7. **Daoyuan Wang**, Lianzhi Wang, Wenlan Chen, Hong Wang, Cheng Liang\*. Unsupervised Multi-view Feature Selection Based on Weighted Low-rank Tensor Learning and Its Application in Multi-omics Datasets. *EAAI*, 2025.
+
+8. **Daoyuan Wang**, Fujian Ren, Yuntang Zhuang, Cheng Liang\*. Robust High-order Graph Learning for Incomplete Multi-view Clustering. *Expert Systems with Applications*, 2025.
+
+9. Cheng Liang, **Daoyuan Wang**, Huaxiang Zhang, Shichao Zhang\*, Fei Guo\*. Robust Tensor Subspace Learning for Incomplete Multi-view Clustering. *IEEE TKDE*, 2024.

@@ -1,12 +1,10 @@
 theme: jekyll-theme-minimal
-title: "<left>Daoyuan Wang <br> <span style='font-size: 0.8em;'>王道远</span></left>"
-description: >
-  Ph.D. Candidate @ CSU <br>
-  <hr>
-  wdyi701@gmail.com <br>
-  <br>
-  <a href="https://scholar.google.com/citations?user=ZIwb6NwAAAAJ">Google Scholar</a> <br>
-  <a href="https://github.com/wdyi701">GitHub</a> <br>
-  <a href="https://orcid.org/0000-0001-8463-4104" target="_blank" style="text-decoration:none;">ORCID</a>
+title: Daoyuan Wang (王道远)
 logo: /image.JPG
-github: [owner/repo]
+description: >
+  Ph.D. Candidate at Central South University<br>
+  <br>
+  <a href="mailto:wdyi701@gmail.com">Email</a><br>
+  <a href="https://scholar.google.com/citations?user=ZIwb6NwAAAAJ">Google Scholar</a><br>
+  <a href="https://github.com/wdyi701">GitHub</a><br>
+  <a href="https://orcid.org/0000-0001-8463-4104">ORCID</a>
