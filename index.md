@@ -31,9 +31,11 @@ I received my M.S. degree in Software Engineering from the **School of Computer 
   </div>
 </div>
 
-%% ## Honors & Awards
+<!--  
+## Honors & Awards
 
-%%- Second-Class Scholarship, Shandong Normal University, 2023
+- Second-Class Scholarship, Shandong Normal University, 2023
+-->
 
 ## Selected Publications
 
